@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is **Winston Chen** and I am a full-stack software engineer. I'm from Washington, D.C. and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021. 
+My name is **Winston Chen** and I am a full-stack software engineer. I'm from Washington, D.C. and recently graduated from Flatiron School's full-time immersive software engineering bootcamp in March 2021. 
 
 - 💬 Ask me about my current project!
 - 📫 How to reach me: winstonchen.wm@gmail.com
