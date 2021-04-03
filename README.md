@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is **Winston Chen** and I am a full-stack software engineer. I'm from Washington, D.C. and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021.
 
 <!--
 **winstonchen-code/winstonchen-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
