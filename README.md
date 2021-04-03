@@ -1,6 +1,13 @@
 ### Hi there! 👋
 
-My name is **Winston Chen** and I am a full-stack software engineer. I'm from Washington, D.C. and recently graduated from Flatiron School's full-immersive software engineering bootcamp in March 2021.
+My name is **Winston Chen** and I'm a Full-Stack Software Engineer, experienced in JavaScript, React, and Ruby on Rails with a background in dentistry. I am always looking for innovative and unique approaches to both technical and design problems.
+
+As a former dental student 🦷 who has worked in private practices and a start-up, I forged critical values in work ethic, adaptability, and team-building. I am driven by the prospect of not only diversifying tech, but by using tech for the greater good.
+
+When I'm not coding, I enjoy going on long runs, flying my drone, and exploring new places with my 🐶, Koda.
+
+- 💬 Ask me about what project I am currently working on!
+- 📫 How to reach me: winstonchen.wm@gmail.com
 
 <!--
 **winstonchen-code/winstonchen-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
