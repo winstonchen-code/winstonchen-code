@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is **Winston Chen** and I'm a full-stack software engineer, experienced in JavaScript, React, and Ruby on Rails with a background in dentistry.
+My name is Winston and I'm a full-stack software engineer, experienced in JavaScript, React, and Ruby on Rails with a background in dentistry.
 
 As a former dental student who has worked in numerous private practices and a start-up, I forged critical values in work ethic, adaptability, and team-building. I am driven by the prospect of not only diversifying tech, but by using tech for the greater good.
 
