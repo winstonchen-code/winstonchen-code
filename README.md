@@ -1,4 +1,4 @@
-### Hi there! 👋
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/116313435-c00fa980-a77b-11eb-8aaa-d8d79dde7b89.png)
 
 My name is Winston and I'm a full-stack software engineer, experienced in JavaScript, React, and Ruby on Rails with a background in dentistry.
 
