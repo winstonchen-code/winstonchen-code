@@ -1,8 +1,8 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/116313435-c00fa980-a77b-11eb-8aaa-d8d79dde7b89.png)
 
-I'm a full-stack web developer, experienced in React.js and Ruby on Rails, with a background in dentistry.
+I am a Full-Stack Developer, experienced in React and Ruby on Rails, with a background in dentistry/education. I am always looking for innovative and unique approaches to both technical and design problems.
 
-As a former dental student who has worked in numerous private practices and a start-up, I forged critical values in work ethic, adaptability, and team-building. I am driven by the prospect of not only diversifying tech, but by using tech for the greater good.
+As a former dental assistant who has worked in numerous private practices and as an educator for a start-up, I forged critical values in work ethic, adaptability, and team-building. I am driven by the prospect of not only diversifying tech, but by using tech for the greater good.
 
 When I'm not coding, I enjoy going on long runs, flying my drone, and exploring new places with my dog, Koda.
 
