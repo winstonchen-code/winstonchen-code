@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/116313435-c00fa980-a77b-11eb-8aaa-d8d79dde7b89.png)
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/142749304-ed49aac5-7861-41c8-a4ce-ea03e31555e6.png)
 
 I'm an Application Engineer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, and SQL. Experience with Jira, Confluence, and DataDog. I am always looking for innovative and unique approaches to both technical and design problems.
 
