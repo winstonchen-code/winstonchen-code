@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/142749304-ed49aac5-7861-41c8-a4ce-ea03e31555e6.png)
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/148492714-105376cb-7731-4139-aa72-deffefc5eab1.png)
 
 I'm a Full-Stack Developer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, SQL, React, and Ruby on Rails. Experience with Jira, Confluence, and DataDog. I am always looking for innovative and unique approaches to both technical and design problems.
 
