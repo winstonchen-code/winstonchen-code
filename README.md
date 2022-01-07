@@ -1,6 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/142749304-ed49aac5-7861-41c8-a4ce-ea03e31555e6.png)
 
-I'm an Application Engineer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, and SQL. Experience with Jira, Confluence, and DataDog. I am always looking for innovative and unique approaches to both technical and design problems.
+I'm a Full-Stack Developer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, SQL, React, and Ruby on Rails. Experience with Jira, Confluence, and DataDog. I am always looking for innovative and unique approaches to both technical and design problems.
 
 When I'm not coding, I enjoy going on long runs, flying my drone, and exploring new places with my dog, Koda.
 
