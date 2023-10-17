@@ -1,6 +1,4 @@
-![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/72679784/157343406-9480a210-5d50-49dd-a094-b6bbdfad5bb4.png)
-
-I'm a Technical Support Engineer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, SQL, React, and Ruby on Rails. Experience with Jira, Confluence, and DataDog. I am always looking for innovative and unique approaches to both technical and design problems.
+I'm a Senior Application Engineering Developer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, SQL, React, and Ruby on Rails. Experience with Jira, Confluence, and DataDog. I am always looking for innovative and unique approaches to both technical and design problems.
 
 In my free time, I enjoy going on long runs, flying my drone, and exploring new places with my dog, Koda.
 
