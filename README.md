@@ -1,7 +1,5 @@
 I'm a Senior Application Engineering Developer with a demonstrated history of working for a SaaS in an enterprise environment and a high growth startup. Skilled in HTML, CSS, JavaScript, SQL, React, and Ruby on Rails. Experience with AWS Cloud Infrastructure. I am always looking for innovative and unique approaches to both technical and design problems.
 
-In my free time, I enjoy going on long runs, flying my drone, and exploring new places with my dog, Koda.
-
 - 💬 Ask me about my current project!
 
 <!--
