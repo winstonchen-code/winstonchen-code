@@ -3,7 +3,6 @@ I'm a Senior Application Engineering Developer with a demonstrated history of wo
 In my free time, I enjoy going on long runs, flying my drone, and exploring new places with my dog, Koda.
 
 - 💬 Ask me about my current project!
-- 📫 How to reach me: winstonchen.wm@gmail.com
 
 <!--
 **winstonchen-code/winstonchen-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: winstonchen.wm@gmail.com
 -->
